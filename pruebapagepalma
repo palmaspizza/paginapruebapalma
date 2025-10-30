@@ -1293,7 +1293,7 @@ function ocultarBotonBorrar() {
 <b>           
             <input type="text" type="name" placeholder="Escribe tu nombre" id="nombre" oninput="miFuncion();">
             <br><br>
-            <button id="reservar-button" type="submit" onclick="reservarHora();">Reservar</button>
+            <button id="reservar-button" type="button" onclick="reservarHora();">Reservar</button>
         </div>
     </div>
 </form>
