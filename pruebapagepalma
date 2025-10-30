@@ -2725,6 +2725,7 @@ function reservarHora() {
 }
 
 
+
         function cerrarModal(id) {
             document.getElementById(id).classList.add("fantasma");
         }
